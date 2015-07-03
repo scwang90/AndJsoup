@@ -4,7 +4,6 @@ import java.util.ArrayList;
 
 /**
  * A container for ParseErrors.
- * 
  * @author Jonathan Hedley
  */
 @SuppressWarnings("serial")

@@ -11,7 +11,6 @@ import java.util.*;
  * <p/>
  * Attribute key and value comparisons are done case insensitively, and keys are normalised to
  * lower-case.
- * 
  * @author Jonathan Hedley, jonathan@hedley.net
  */
 public class Attributes implements Iterable<Attribute>, Cloneable {
