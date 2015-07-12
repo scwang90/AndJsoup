@@ -9,7 +9,6 @@ import java.util.ListIterator;
  */
 public class DescendableLinkedList<E> extends LinkedList<E> {
     /**
-	 * 
 	 */
 	private static final long serialVersionUID = 1L;
 
